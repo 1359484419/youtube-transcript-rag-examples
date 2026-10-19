@@ -1,0 +1,6 @@
+{
+  "name": "youtube-transcript-rag-example",
+  "private": true,
+  "type": "module",
+  "dependencies": { "apify-client": "^2.9.0" }
+}

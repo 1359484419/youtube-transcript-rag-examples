@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "apify": {
+      "url": "https://mcp.apify.com?tools=xiaoliang527/youtube-transcript-rag",
+      "headers": { "Authorization": "Bearer <YOUR_APIFY_TOKEN>" }
+    }
+  }
+}
